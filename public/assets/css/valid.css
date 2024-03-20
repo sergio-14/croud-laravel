@@ -1,0 +1,39 @@
+#nbar{
+    background: linear-gradient(.25turn, #020a0c,#04192c, #136f8b);
+}
+#rff{
+    color: aliceblue;
+}
+#lbel{
+    color: #020a0c;
+    font-size: 20px;
+    
+}
+
+#contn{
+    background-color: transparent;
+    
+
+}
+html{
+    background: black;
+}
+#td{
+    height: 650px; 
+}
+#cont{
+    background: transparent;
+}
+label{
+    color: rgb(163, 255, 255);
+    
+}
+#email, #password, #name, #password-confirm {
+    background:transparent;
+    color: #60e7ff;
+}
+#bt{
+    background-color: #250953;
+    color: aqua;
+}
+

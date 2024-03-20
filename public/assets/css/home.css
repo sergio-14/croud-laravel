@@ -1,0 +1,49 @@
+#igm{
+   
+    height: 400px;
+    width: 1365px;
+}
+header{
+    background-color:transparent ;
+}
+#ut{
+    background-color: #120c69;
+    color: aqua;
+}
+#tu{
+    background: linear-gradient(.25turn, #020a0c, #0a3c4b,#04192c);
+}
+
+.navbar{
+    background: transparent;
+}
+#column{
+    background-color: transparent;
+    width: 1000px;
+    left: 130px;
+}
+#letraq{
+    color: aqua;
+    background-color: #120c69c5;
+    border-color: aqua;
+}
+#letra{
+    color: aqua;
+    border-color: aqua;
+}
+#letra1{
+    color: blue;
+}
+#letra2{
+    color: rgb(7, 13, 54);
+    font-size: 50PX;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-items: center;
+}
+#letra3{
+    color: rgb(8, 66, 68);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30PX;
+    top: 90px;
+}
+
